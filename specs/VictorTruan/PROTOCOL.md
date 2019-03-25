@@ -9,6 +9,7 @@ The client speak first
 ##Message sequence
 	Client initialize the connection
 	Server ask for the operation and number
+	Client send numbers and operations
 	Client is waiting for reponse
 	Server answer client and take next one.
 
